@@ -1,2 +1,2 @@
 # homelab-scripts
-Some useful scripts for home lab
+Some useful scripts for home labs.
